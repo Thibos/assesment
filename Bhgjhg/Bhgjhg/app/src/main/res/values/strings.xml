@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">my Play List</string>
+    <string name="action_settings">Settings</string>
+
+    <array name="images_array">
+        <item>
+            http://placehold.it/4096x4096&amp;text=Track1
+        </item>
+        <item>
+            http://placehold.it/4096x4096&amp;text=Track2
+        </item>
+        <item>
+            http://placehold.it/4096x4096&amp;text=Track3
+        </item>
+        <item>
+            http://placehold.it/4096x4096&amp;text=Track4
+        </item>
+        <item>
+            http://placehold.it/4096x4096&amp;text=Track5
+        </item>
+        <item>
+            http://placehold.it/4096x4096&amp;text=Track6
+        </item>
+        <item>
+            http://placehold.it/4096x4096&amp;text=Track7
+        </item>
+        <item>
+            http://placehold.it/4096x4096&amp;text=Track8
+        </item>
+        <item>
+            http://placehold.it/4096x4096&amp;text=Track9
+        </item>
+        <item>
+            http://placehold.it/4096x4096&amp;text=Track10
+        </item>
+
+
+    </array>
+
+    <array name="heading_array">
+        <item>Track 1</item>
+        <item>Track 2</item>
+        <item>Track 3</item>
+        <item>Track 4</item>
+        <item>Track 5</item>
+        <item>Track 6</item>
+        <item>Track 7</item>
+        <item>Track 8</item>
+        <item>Track 9</item>
+        <item>Track 10</item>
+
+    </array>
+
+    <array name="description_array">
+        <item>Track 1 Description,One of the best CRC Song in my Play list</item>
+        <item>Track 2 Description, One of the best Chris Tomlin in my play List</item>
+        <item>Track 3 Description, One of the best M W Smith song in my Play list</item>
+        <item>Track 4 Description, One of the best Jesus Culture song in my Play list</item>
+        <item>Track 5 Description, One of the best Bethel Mucsic song in my Play list</item>
+        <item>Track 6 Description, One of the best God is Not dead song in my Play list</item>
+        <item>Track 7 Description, One of the best Hill Song song in my Play list</item>
+        <item>Track 8 Description, One of the best Kim Walker song in my Play list</item>
+        <item>Track 9 Description, One of the best Sfiso song in my Play list</item>
+        <item>Track 10 Description, One of the best Kari Jobe song in my Play list</item>
+
+    </array>
+</resources>
